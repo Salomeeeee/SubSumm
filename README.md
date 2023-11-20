@@ -10,7 +10,7 @@ This repository contains the code for the paper *Large-Scale and Multi-Perspecti
 ## Setup
 
 Please use the command below to setup the environment needed.
-``
+```
 conda create -n subsumm python=3.7.0
 conda activate subsumm
 pip install -r requirements.txt
