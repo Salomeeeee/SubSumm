@@ -3,7 +3,7 @@
 This repository contains the code for the paper *Large-Scale and Multi-Perspective Opinion Summarization with Diverse Review Subsets* (https://arxiv.org/abs/2310.13340) accepted to EMNLP 2023 Findings. **SubSumm** is a supervised summarization framework for large-scale multi-perspetcive opinion summarization with limited computational resource.
 
 <p align="center">
-<img src="img/fig1.pdf" width="500">
+<img src="img/model.png" width="800">
 </p>
 
 
