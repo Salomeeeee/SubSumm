@@ -1,6 +1,6 @@
 import numpy as np
 import torch
-from selsum.utils.helpers.data import numel
+from subsumm.utils.helpers.data import numel
 from fairseq.data import FairseqDataset
 from fairseq.data.data_utils import collate_tokens
 
