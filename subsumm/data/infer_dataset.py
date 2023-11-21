@@ -1,5 +1,5 @@
 from fairseq.data import BaseWrapperDataset
-from selsum.utils.helpers.collators import collate_features
+from subsumm.utils.helpers.collators import collate_features
 
 
 def collate_extra(samples, batch=None):
